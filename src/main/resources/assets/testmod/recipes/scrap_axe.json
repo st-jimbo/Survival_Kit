@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AA ",
+    "AB ",
+    " B "  ],
+  "key": {
+    "A": [
+      {
+        "item": "testmod:scrap_metal",
+        "data": 0
+      }
+    ],
+    "B": [
+      {
+        "item": "minecraft:stick",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "testmod:scrap_axe",
+    "data": 0
+  }
+}

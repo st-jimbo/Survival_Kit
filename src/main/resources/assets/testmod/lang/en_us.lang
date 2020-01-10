@@ -1,4 +1,7 @@
 itemGroup.tabMod=Wastelander's Kit
 item.scrap_metal.name=Scrap Metal
-item.scrap_sword.name=Machete
+item.scrap_sword.name=Scrap Machete
 item.scrap_spear.name=Scrap Spear
+item.scrap_pickaxe.name=Scrap Pickaxe
+item.scrap_shovel.name=Scrap Shovel
+item.scrap_axe.name=Scrap Hatchet
