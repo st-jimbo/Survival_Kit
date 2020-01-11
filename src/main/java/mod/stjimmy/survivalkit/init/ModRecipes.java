@@ -1,4 +1,4 @@
-package mod.stjimmy.thetestmod.init;
+package mod.stjimmy.survivalkit.init;
 
 import net.minecraft.init.Items;
 import net.minecraft.item.ItemStack;

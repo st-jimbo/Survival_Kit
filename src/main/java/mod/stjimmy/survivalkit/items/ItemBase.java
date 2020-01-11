@@ -1,10 +1,9 @@
-package mod.stjimmy.thetestmod.items;
+package mod.stjimmy.survivalkit.items;
 
-import mod.stjimmy.thetestmod.Main;
-import mod.stjimmy.thetestmod.init.ModItems;
-import mod.stjimmy.thetestmod.util.IHasModel;
+import mod.stjimmy.survivalkit.Main;
+import mod.stjimmy.survivalkit.init.ModItems;
+import mod.stjimmy.survivalkit.util.IHasModel;
 
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 
 public class ItemBase extends Item implements IHasModel

@@ -1,4 +1,4 @@
-package mod.stjimmy.thetestmod.util;
+package mod.stjimmy.survivalkit.util;
 
 public interface IHasModel
 {

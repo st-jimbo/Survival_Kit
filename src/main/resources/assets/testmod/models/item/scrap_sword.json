@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "testmod:items/scrap_sword"
+    "layer0": "survivalkit:items/scrap_sword"
   }
 }

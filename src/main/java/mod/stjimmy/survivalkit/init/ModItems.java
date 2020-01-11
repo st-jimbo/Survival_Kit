@@ -1,13 +1,13 @@
-package mod.stjimmy.thetestmod.init;
+package mod.stjimmy.survivalkit.init;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import mod.stjimmy.thetestmod.items.ItemBase;
-import mod.stjimmy.thetestmod.items.tools.ToolAxe;
-import mod.stjimmy.thetestmod.items.tools.ToolPickaxe;
-import mod.stjimmy.thetestmod.items.tools.ToolShovel;
-import mod.stjimmy.thetestmod.items.tools.ToolSword;
+import mod.stjimmy.survivalkit.items.ItemBase;
+import mod.stjimmy.survivalkit.items.tools.ToolAxe;
+import mod.stjimmy.survivalkit.items.tools.ToolPickaxe;
+import mod.stjimmy.survivalkit.items.tools.ToolShovel;
+import mod.stjimmy.survivalkit.items.tools.ToolSword;
 
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemPickaxe;

@@ -1,8 +1,8 @@
-package mod.stjimmy.thetestmod.items.tools;
+package mod.stjimmy.survivalkit.items.tools;
 
-import mod.stjimmy.thetestmod.Main;
-import mod.stjimmy.thetestmod.init.ModItems;
-import mod.stjimmy.thetestmod.util.IHasModel;
+import mod.stjimmy.survivalkit.Main;
+import mod.stjimmy.survivalkit.init.ModItems;
+import mod.stjimmy.survivalkit.util.IHasModel;
 
 import net.minecraft.item.ItemSword;
 

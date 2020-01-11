@@ -7,7 +7,7 @@
   "key": {
     "A": [
       {
-        "item": "testmod:scrap_metal",
+        "item": "survivalkit:scrap_metal",
         "data": 0
       }
     ],
@@ -19,7 +19,7 @@
     ]
   },
   "result": {
-    "item": "testmod:scrap_shovel",
+    "item": "survivalkit:scrap_shovel",
     "data": 0
   }
 }

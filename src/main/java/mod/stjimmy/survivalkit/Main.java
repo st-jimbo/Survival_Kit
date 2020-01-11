@@ -1,8 +1,8 @@
-package mod.stjimmy.thetestmod;
+package mod.stjimmy.survivalkit;
 
-import mod.stjimmy.thetestmod.proxy.CommonProxy;
-import mod.stjimmy.thetestmod.tabs.ModTab;
-import mod.stjimmy.thetestmod.util.Reference;
+import mod.stjimmy.survivalkit.proxy.CommonProxy;
+import mod.stjimmy.survivalkit.tabs.ModTab;
+import mod.stjimmy.survivalkit.util.Reference;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraftforge.fml.common.Mod;

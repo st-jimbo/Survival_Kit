@@ -1,6 +1,6 @@
-package mod.stjimmy.thetestmod.tabs;
+package mod.stjimmy.survivalkit.tabs;
 
-import mod.stjimmy.thetestmod.init.ModItems;
+import mod.stjimmy.survivalkit.init.ModItems;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemStack;

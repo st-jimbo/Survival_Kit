@@ -1,4 +1,4 @@
-package mod.stjimmy.thetestmod.proxy;
+package mod.stjimmy.survivalkit.proxy;
 
 import net.minecraft.item.Item;
 

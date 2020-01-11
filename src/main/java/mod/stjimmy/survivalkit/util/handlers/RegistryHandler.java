@@ -1,7 +1,7 @@
-package mod.stjimmy.thetestmod.util.handlers;
+package mod.stjimmy.survivalkit.util.handlers;
 
-import mod.stjimmy.thetestmod.init.ModItems;
-import mod.stjimmy.thetestmod.util.IHasModel;
+import mod.stjimmy.survivalkit.init.ModItems;
+import mod.stjimmy.survivalkit.util.IHasModel;
 
 import net.minecraft.item.Item;
 import net.minecraftforge.client.event.ModelRegistryEvent;
