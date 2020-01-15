@@ -4,10 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import mod.stjimmy.survivalkit.items.ItemBase;
-import mod.stjimmy.survivalkit.items.tools.ToolAxe;
-import mod.stjimmy.survivalkit.items.tools.ToolPickaxe;
-import mod.stjimmy.survivalkit.items.tools.ToolShovel;
-import mod.stjimmy.survivalkit.items.tools.ToolSword;
+import mod.stjimmy.survivalkit.items.tools.*;
 
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemPickaxe;
@@ -33,5 +30,11 @@ public class ModItems
     public static final ItemPickaxe SCRAP_PICKAXE = new ToolPickaxe("scrap_pickaxe", MATERIAL_SCRAP);
     public static final ItemSpade SCRAP_SHOVEL = new ToolShovel("scrap_shovel", MATERIAL_SCRAP);
     public static final ItemAxe SCRAP_AXE = new ToolAxe("scrap_axe", MATERIAL_SCRAP);
+
+    public static final ToolWarpick WOOD_WARPICK = new ToolWarpick("wood_warpick", Item.ToolMaterial.WOOD);
+    public static final ToolWarpick STONE_WARPICK = new ToolWarpick("stone_warpick", Item.ToolMaterial.STONE);
+    public static final ToolWarpick IRON_WARPICK = new ToolWarpick("iron_warpick", Item.ToolMaterial.IRON);
+    public static final ToolWarpick GOLD_WARPICK = new ToolWarpick("gold_warpick", Item.ToolMaterial.GOLD);
+    public static final ToolWarpick DIAMOND_WARPICK = new ToolWarpick("diamond_warpick", Item.ToolMaterial.DIAMOND);
 
 }

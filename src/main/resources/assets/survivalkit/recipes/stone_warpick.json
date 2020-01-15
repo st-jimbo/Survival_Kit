@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    " BA",
+    " B "  ],
+  "key": {
+    "A": [
+      {
+        "type": "forge:ore_dict",
+        "ore": "cobblestone"
+      }
+    ],
+    "B": [
+      {
+        "type": "forge:ore_dict",
+        "ore": "stickWood"
+      }
+    ]
+  },
+  "result": {
+    "item": "survivalkit:stone_warpick"
+  }
+}
