@@ -3,9 +3,13 @@ package mod.stjimmy.survivalkit.items.tools;
 import mod.stjimmy.survivalkit.Main;
 import mod.stjimmy.survivalkit.init.ModItems;
 import mod.stjimmy.survivalkit.util.IHasModel;
+import net.minecraft.client.util.ITooltipFlag;
 import net.minecraft.entity.EntityLivingBase;
 import net.minecraft.item.ItemPickaxe;
 import net.minecraft.item.ItemStack;
+import net.minecraft.world.World;
+
+import java.util.List;
 
 public class ToolWarpick extends ItemPickaxe implements IHasModel
 {
@@ -24,6 +28,14 @@ public class ToolWarpick extends ItemPickaxe implements IHasModel
     {
         stack.damageItem(1, attacker);
         return true;
+    }
+
+    @Override
+    public void addInformation(ItemStack stack, World worldIn, List<String> tooltip, ITooltipFlag flagIn)
+    {
+        super.addInformation(stack, worldIn, tooltip, flagIn);
+
+        tooltip.add("\u00A76Effective at both mining and combat");
     }
 
     @Override
