@@ -37,4 +37,7 @@ public class ModItems
     public static final ToolWarpick GOLD_WARPICK = new ToolWarpick("gold_warpick", Item.ToolMaterial.GOLD);
     public static final ToolWarpick DIAMOND_WARPICK = new ToolWarpick("diamond_warpick", Item.ToolMaterial.DIAMOND);
 
+    public static final ToolMaul STONE_MAUL = new ToolMaul("stone_maul", Item.ToolMaterial.STONE);
+    public static final ToolMaul IRON_MAUL = new ToolMaul("iron_maul", Item.ToolMaterial.IRON);
+    public static final ToolMaul DIAMOND_MAUL = new ToolMaul("diamond_maul", Item.ToolMaterial.DIAMOND);
 }
