@@ -23,7 +23,7 @@ public class ToolMaul extends ItemTool implements IHasModel
     {
         super(material, EFFECTIVE_ON);
         this.attackDamage = 7.0F + material.getAttackDamage();
-        this.attackSpeed = -3.0F;
+        this.attackSpeed = -3.2F;
         setUnlocalizedName(name);
         setRegistryName(name);
         setCreativeTab(Main.tabMod);
